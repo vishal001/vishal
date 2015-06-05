@@ -9,7 +9,7 @@ int main(int /*argc*/ , char * /*args*/[])
 	cout << message << endl;
     
     cout << "resolved confilct" << endl;
-    cout << "all: rudy1 rudy2" << endl;
+    cout << "all: rudy1 rudy2 james" << endl;
 
 	int exitCode = 0;
 	return exitCode;
