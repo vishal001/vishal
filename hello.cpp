@@ -12,7 +12,7 @@ int main(int /*argc*/ , char * /*args*/[])
     cout << "  rudy: " << endl;
     cout << "  eric: " << endl;
     cout << " cyril: " << endl;
-    cout << " james: " << endl;
+    cout << " james: Hello from James!!" << endl;
     cout << " ellen: " << endl;
     cout << "  tito: " << endl;
     cout << "  lulu: " << endl;
