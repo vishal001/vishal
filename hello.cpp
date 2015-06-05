@@ -9,7 +9,7 @@ int main(int /*argc*/ , char * /*args*/[])
 	cout << message << endl;
 
     cout << "check in procedure" << endl;
-    cout << "  rudy: " << endl;
+    cout << "  rudy: hello from rudy" << endl;
     cout << "  eric: " << endl;
     cout << " cyril: hello from cyril" << endl;
     cout << " james: " << endl;
