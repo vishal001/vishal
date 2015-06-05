@@ -2,33 +2,26 @@
 #include <string>
 #include <stdio.h>
 
-#ifdef TINYDB
-#include "tinydb/tinydb.h"
-#endif
-
 using namespace std;
 int main(int /*argc*/ , char * /*args*/[])
 {
 	string message("Hello, world!!");
 	cout << message << endl;
 
+    cout << "check in procedure" << endl;
+    cout << "  rudy: " << endl;
+    cout << "  eric: " << endl;
+    cout << " cyril: " << endl;
+    cout << " james: " << endl;
+    cout << " ellen: " << endl;
+    cout << "  tito: " << endl;
+    cout << "  lulu: " << endl;
+    cout << "steven: " << endl;
+    cout << "mouris: " << endl;
+    cout << " chris: " << endl;
+    cout << "  luke: " << endl;
+
 	int exitCode = 0;
-#ifdef TINYDB
-	try {
-		TinyDB db;
-		db.init("Hello", true); // auto flush when dirty
-		cout << "English: " << db.getMString("en_US") << endl;
-		cout << "Chinese: " << db.getMString("zh_TW") << endl;
-
-		db.setMString("en_US", "hello, world!");
-		db.setMString("zh_TW", "你好，世界！");
-	}
-	catch (TinyDBError& error) {
-		cerr << error.what() << endl;
-		exitCode = 1;
-	}
-#endif
-
 	return exitCode;
 }
 

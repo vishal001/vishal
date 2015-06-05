@@ -7,8 +7,8 @@ CROSS_COMPILE = $(PJ_TARGET)-
 CFLAGS    = $(PLATFORM_CFLAGS) -Wall -W
 CXXFLAGS  = $(CFLAGS)
 CPPFLAGS  = $(PLATFORM_CPPFLAGS) -D_REENTRANT -D_LINUX -I$(PREFIX)/include
-LDFLAGS   = $(PLATFORM_LDFLAGS) -s -Wl,-rpath-link=$(PJ_RPATH)
-LOADLIBES = $(PLATFORM_LOADLIBES) -L$(PREFIX)/lib
+LDFLAGS   = $(PLATFORM_LDFLAGS)
+LOADLIBES = $(PLATFORM_LOADLIBES)
 LDLIBS    = $(PLATFORM_LDLIBS) -lpthread
 
 CC        = $(CROSS_COMPILE)g++
@@ -41,9 +41,9 @@ install: $(TARGETS)
 	install -m 755 $(TARGETS) $(PREFIX_BINDIR)/
 
 %.d: %.c
-	$(CC) -MM $(CPPFLAGS) $< | sed -re 's,^.*:,$*.o $*.d:,g' > $@
+	$(CC) -MM $(CPPFLAGS) $< | sed -e 's,^.*:,$*.o $*.d:,g' > $@
 %.d: %.cpp
-	$(CC) -MM $(CPPFLAGS) $< | sed -re 's,^.*:,$*.o $*.d:,g' > $@
+	$(CC) -MM $(CPPFLAGS) $< | sed -e 's,^.*:,$*.o $*.d:,g' > $@
 DEPENDS := $(SRCS:%.c=%.d)
 DEPENDS := $(DEPENDS:%.cpp=%.d)
 ifneq ($(MAKECMDGOALS),clean)
