@@ -14,7 +14,7 @@ int main(int /*argc*/ , char * /*args*/[])
     cout << " cyril: hello from cyril" << endl;
     cout << " james: hello from james" << endl;
     cout << " ellen: This is hello world from ellen." << endl;
-    cout << "  tito: " << endl;
+    cout << "  tito: from tito" << endl;
     cout << "  lulu: This is hello world from lulu. " << endl;
     cout << "steven: This is hello world from steven." << endl;
     cout << "mouris: hello from mouris." << endl;
