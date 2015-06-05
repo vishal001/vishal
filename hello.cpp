@@ -11,7 +11,7 @@ int main(int /*argc*/ , char * /*args*/[])
     cout << "check in procedure" << endl;
     cout << "  rudy: " << endl;
     cout << "  eric: " << endl;
-    cout << " cyril: " << endl;
+    cout << " cyril: hello from cyril" << endl;
     cout << " james: " << endl;
     cout << " ellen: " << endl;
     cout << "  tito: " << endl;
