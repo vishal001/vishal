@@ -10,7 +10,7 @@ int main(int /*argc*/ , char * /*args*/[])
 
     cout << "check in procedure" << endl;
     cout << "  rudy: hello from rudy" << endl;
-    cout << "  eric: hello from eric" << endl;
+    cout << "  eric: hello from eric..." << endl;
     cout << " cyril: hello from cyril" << endl;
     cout << " james: hello from james" << endl;
     cout << " ellen: This is hello world from ellen." << endl;
