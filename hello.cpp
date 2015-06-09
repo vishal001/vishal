@@ -12,17 +12,17 @@ int main(int /*argc*/ , char * /*args*/[])
     // neo:
     cout << "" << endl;
     // james:
-    cout << "" << endl;
+    cout << "branch from James" << endl;
     // eric:
-    cout << "" << endl;
+    cout << "branch from eric...." << endl;
     // cyril:
-    cout << "" << endl;
+    cout << "branch from cyril" << endl;
     // alvin:
     cout << "branch from Alvin" << endl;
     // ellen:
-    cout << "" << endl;
+    cout << "merge from ellen's branch." << endl;
     // tito:
-    cout << "" << endl;
+    cout << "branch from tito" << endl;
     // steven:
     cout << "" << endl;
     // chris:
