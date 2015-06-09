@@ -22,7 +22,7 @@ int main(int /*argc*/ , char * /*args*/[])
     // ellen:
     cout << "merge from ellen's branch." << endl;
     // tito:
-    cout << "" << endl;
+    cout << "merge from luke's branch." << endl;
     // steven:
     cout << "" << endl;
     // chris:
