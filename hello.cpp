@@ -8,8 +8,12 @@ int main(int /*argc*/ , char * /*args*/[])
 	string message("Hello, world!!");
 	cout << message << endl;
     
-    cout << "resolved confilct" << endl;
-    cout << "all: rudy1 rudy2 cyril eric mouris james tito chris lulu ellen luke steven alvin" << endl;
+    cout << "practice branch" << endl;
+    // rudy: foo 
+    cout << "rudy1:" << endl;
+    // rudy: goo
+    cout << "rudy2:" << endl; 
+
 	int exitCode = 0;
 	return exitCode;
 }
