@@ -18,11 +18,11 @@ int main(int /*argc*/ , char * /*args*/[])
     // cyril:
     cout << "branch from cyril" << endl;
     // alvin:
-    cout << "" << endl;
+    cout << "branch from Alvin" << endl;
     // ellen:
     cout << "merge from ellen's branch." << endl;
     // tito:
-    cout << "merge from luke's branch." << endl;
+    cout << "branch from tito" << endl;
     // steven:
     cout << "" << endl;
     // chris:
@@ -30,7 +30,7 @@ int main(int /*argc*/ , char * /*args*/[])
     // mouris:
     cout << "" << endl;
     // luke:
-    cout << "" << endl;
+    cout << "branch from luke" << endl;
 
 	int exitCode = 0;
 	return exitCode;
