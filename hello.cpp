@@ -32,6 +32,7 @@ int main(int /*argc*/ , char * /*args*/[])
     cout << "branch from mouris" << endl;
     // luke:
     cout << "branch from luke" << endl;
+    cout << "luke test proxy ok." << endl;
     // rudy:
     cout << "branch from rudy" << endl;
 
