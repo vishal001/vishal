@@ -12,7 +12,7 @@ int main(int /*argc*/ , char * /*args*/[])
     // rudy: foo 
     cout << "rudy1:" << endl;
     // rudy: goo
-    cout << "rudy2:" << endl; 
+    cout << "rudy2: goo" << endl; 
 
 	int exitCode = 0;
 	return exitCode;
