@@ -14,13 +14,13 @@ int main(int /*argc*/ , char * /*args*/[])
     // james:
     cout << "branch from James" << endl;
     // eric:
-    cout << "" << endl;
+    cout << "branch from eric...." << endl;
     // cyril:
     cout << "" << endl;
     // alvin:
     cout << "" << endl;
     // ellen:
-    cout << "" << endl;
+    cout << "merge from ellen's branch." << endl;
     // tito:
     cout << "" << endl;
     // steven:
