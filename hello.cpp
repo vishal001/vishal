@@ -10,7 +10,7 @@ int main(int /*argc*/ , char * /*args*/[])
     
     cout << "practice branch" << endl;
     // rudy: foo 
-    cout << "rudy1: foo1" << endl;
+    cout << "rudy1: foo1 foo2" << endl;
     // rudy: goo
     cout << "rudy2:" << endl; 
 
