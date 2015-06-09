@@ -24,6 +24,7 @@ int main(int /*argc*/ , char * /*args*/[])
     cout << "ellen test proxy." << endl;
     // tito:
     cout << "branch from tito" << endl;
+    cout << "tito test proxy" << endl;
     // steven:
     cout << "branch from steven." << endl;
     // chris:
