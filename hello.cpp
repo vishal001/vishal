@@ -10,7 +10,7 @@ int main(int /*argc*/ , char * /*args*/[])
     
     cout << "practice branch" << endl;
     // neo:
-    cout << "" << endl;
+    cout << "branches from Neo" << endl;
     // james:
     cout << "branch from James" << endl;
     // eric:
