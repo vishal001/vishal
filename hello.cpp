@@ -20,7 +20,7 @@ int main(int /*argc*/ , char * /*args*/[])
     // alvin:
     cout << "" << endl;
     // ellen:
-    cout << "" << endl;
+    cout << "merge from ellen's branch." << endl;
     // tito:
     cout << "" << endl;
     // steven:
