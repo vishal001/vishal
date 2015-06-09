@@ -9,10 +9,28 @@ int main(int /*argc*/ , char * /*args*/[])
 	cout << message << endl;
     
     cout << "practice branch" << endl;
-    // rudy: foo 
-    cout << "rudy1: foo1 foo2" << endl;
-    // rudy: goo
-    cout << "rudy2: goo" << endl; 
+    // neo:
+    cout << "" << endl;
+    // james:
+    cout << "" << endl;
+    // eric:
+    cout << "" << endl;
+    // cyril:
+    cout << "" << endl;
+    // alvin:
+    cout << "" << endl;
+    // ellen:
+    cout << "" << endl;
+    // tito:
+    cout << "" << endl;
+    // steven:
+    cout << "" << endl;
+    // chris:
+    cout << "" << endl;
+    // mouris:
+    cout << "" << endl;
+    // luke:
+    cout << "" << endl;
 
 	int exitCode = 0;
 	return exitCode;
