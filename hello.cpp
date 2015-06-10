@@ -22,7 +22,7 @@ int main(int /*argc*/ , char * /*args*/[])
     // alvin:
     cout << "Practice resolve with comment by Alvin." << endl;
     // ellen:
-    cout << "" << endl;
+    cout << "ellen fix" << endl;
     // tito:
     cout << "fix from tito" << endl;
     // steven:
