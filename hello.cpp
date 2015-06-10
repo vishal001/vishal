@@ -28,7 +28,7 @@ int main(int /*argc*/ , char * /*args*/[])
     // steven:
     cout << "" << endl;
     // chris:
-    cout << "fork from chris" << endl;
+    cout << "update and resloved issue for chris" << endl;
     // mouris:
     cout << "" << endl;
     // luke:
