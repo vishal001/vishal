@@ -20,7 +20,7 @@ int main(int /*argc*/ , char * /*args*/[])
     // cyril:
     cout << "fork and pull request from cyril" << endl;
     // alvin:
-    cout << "Fork and pull request for pratice." << endl;
+    cout << "" << endl;
     // ellen:
     cout << "fork from tito" << endl;
     // tito:
