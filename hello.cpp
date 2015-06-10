@@ -18,19 +18,21 @@ int main(int /*argc*/ , char * /*args*/[])
     // eric:
     cout << "resolved by eric..." << endl;
     // cyril:
-    cout << "resolve issue" << endl;
+    cout << "resolved by cyril" << endl;
     // alvin:
     cout << "Practice resolve with comment by Alvin." << endl;
     // ellen:
-    cout << "" << endl;
+    cout << "ellen fix" << endl;
     // tito:
     cout << "fix from tito" << endl;
     // steven:
     cout << "" << endl;
     // chris:
-    cout << "" << endl;
+    cout << "update and resloved issue for chris" << endl;
     // mouris:
     cout << "" << endl;
+    // mouris:
+    cout << "fix form mouris" << endl;
     // luke:
     cout << "from luke" << endl;
     //lulu
