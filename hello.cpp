@@ -14,11 +14,11 @@ int main(int /*argc*/ , char * /*args*/[])
     // neo:
     cout << "" << endl;
     // james:
-    cout << "" << endl;
+    cout << "resolved by James" << endl;
     // eric:
-    cout << "" << endl;
+    cout << "resolved by eric..." << endl;
     // cyril:
-    cout << "" << endl;
+    cout << "resolve issue" << endl;
     // alvin:
     cout << "Practice resolve with comment by Alvin." << endl;
     // ellen:
