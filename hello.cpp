@@ -12,7 +12,7 @@ int main(int /*argc*/ , char * /*args*/[])
     // rudy:
     cout << "from rudy" << endl;
     // neo:
-    cout << "resolved3 it" << endl;
+    cout << "resolved3 it (after pull request)" << endl;
     // james:
     cout << "resolved by James" << endl;
     // eric:
