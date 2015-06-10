@@ -8,31 +8,31 @@ int main(int /*argc*/ , char * /*args*/[])
 	string message("Hello, world!!");
 	cout << message << endl;
     
-    cout << "practice fork & pull request" << endl;
+    cout << "practice resolve with comment" << endl;
     // rudy:
-    cout << "f&pr from rudy" << endl;
+    cout << "from rudy" << endl;
     // neo:
     cout << "" << endl;
     // james:
-    cout << "fork and pull request from James" << endl;
+    cout << "" << endl;
     // eric:
     cout << "" << endl;
     // cyril:
-    cout << "fork and pull request from cyril" << endl;
+    cout << "" << endl;
     // alvin:
-    cout << "Fork & pull request pratice." << endl;
+    cout << "" << endl;
     // ellen:
-    cout << "fork from tito" << endl;
+    cout << "" << endl;
     // tito:
     cout << "" << endl;
     // steven:
     cout << "" << endl;
     // chris:
-    cout << "fork from chris" << endl;
+    cout << "" << endl;
     // mouris:
-    cout << "fork and pull request from mouris" << endl;
+    cout << "" << endl;
     // luke:
-    cout << "fork and pull request from luke...~~~" << endl;
+    cout << "" << endl;
     //lulu
     cout << "" << endl;
 
