@@ -10,38 +10,31 @@ int main(int /*argc*/ , char * /*args*/[])
     
     cout << "practice branch" << endl;
     // neo:
-    cout << "branches from Neo" << endl;
+    cout << "" << endl;
     // james:
-    cout << "branch from James" << endl;
+    cout << "" << endl;
     // eric:
-    cout << "branch from eric...." << endl;
+    cout << "" << endl;
     // cyril:
-    cout << "branch from cyril" << endl;
+    cout << "" << endl;
     // alvin:
-    cout << "branch from Alvin" << endl;
+    cout << "" << endl;
     // ellen:
-    cout << "merge from ellen's branch." << endl;
-    cout << "ellen test proxy." << endl;
+    cout << "" << endl;
     // tito:
-    cout << "branch from tito" << endl;
-    cout << "tito test proxy" << endl;
+    cout << "" << endl;
     // steven:
-    cout << "branch from steven." << endl;
-    cout << "steven test proxy." << endl;
+    cout << "" << endl;
     // chris:
-    cout << "branch from chris" << endl;
-    cout << "chris test proxy" <<endl;
+    cout << "" << endl;
     // mouris:
-    cout << "mouris test proxy OK!" << endl;
+    cout << "" << endl;
     // luke:
-    cout << "branch from luke" << endl;
-    cout << "luke test proxy." << endl;
+    cout << "" << endl;
     //lulu
-    cout << "branch from lulu" << endl;
-    cout << "lulu test proxy." << endl;
-    // rudy:
-    cout << "branch from rudy" << endl;
+    cout << "" << endl;
 
 	int exitCode = 0;
 	return exitCode;
 }
+
