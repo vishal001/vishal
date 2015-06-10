@@ -16,7 +16,7 @@ int main(int /*argc*/ , char * /*args*/[])
     // james:
     cout << "resolved by James" << endl;
     // eric:
-    cout << "" << endl;
+    cout << "resolved by eric..." << endl;
     // cyril:
     cout << "" << endl;
     // alvin:
