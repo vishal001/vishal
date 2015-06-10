@@ -14,7 +14,7 @@ int main(int /*argc*/ , char * /*args*/[])
     // neo:
     cout << "" << endl;
     // james:
-    cout << "" << endl;
+    cout << "fork and pull request from James" << endl;
     // eric:
     cout << "" << endl;
     // cyril:
@@ -22,7 +22,7 @@ int main(int /*argc*/ , char * /*args*/[])
     // alvin:
     cout << "Fork and pull request for pratice." << endl;
     // ellen:
-    cout << "" << endl;
+    cout << "fork from tito" << endl;
     // tito:
     cout << "" << endl;
     // steven:
