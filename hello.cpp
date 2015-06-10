@@ -24,7 +24,7 @@ int main(int /*argc*/ , char * /*args*/[])
     // ellen:
     cout << "" << endl;
     // tito:
-    cout << "" << endl;
+    cout << "fix from tito" << endl;
     // steven:
     cout << "" << endl;
     // chris:
@@ -32,7 +32,7 @@ int main(int /*argc*/ , char * /*args*/[])
     // mouris:
     cout << "" << endl;
     // luke:
-    cout << "" << endl;
+    cout << "from luke" << endl;
     //lulu
     cout << "" << endl;
 
