@@ -32,7 +32,7 @@ int main(int /*argc*/ , char * /*args*/[])
     // mouris:
     cout << "" << endl;
     // luke:
-    cout << "" << endl;
+    cout << "fork and pull request from luke" << endl;
     //lulu
     cout << "" << endl;
 
